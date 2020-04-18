@@ -1,4 +1,4 @@
-# Jolokia 1.0.0 JNDI Injection
+# Jolokia 1.0.0 JNDI Injection leading to RCE
 
 Working POC code for Jolokia RCE
 
