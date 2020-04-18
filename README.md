@@ -2,6 +2,9 @@
 
 Working POC code for Jolokia RCE
 
+![POC Image](1.PNG)
+
+
 ## Steps to Reproduce:
 
 1. Clone the current Repository.
