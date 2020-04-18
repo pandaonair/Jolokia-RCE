@@ -29,7 +29,7 @@ Content-Type: application/x-www-form-urlencoded
 
 This will execute the command that you have specified in the `ExportObject.java` file
 
-Note that if you are trying to create a Remote shell, then you will have to open a Netcat Listner on your server at `port_r` specified in `ExportObject.java` file
+Note that if you are trying to create a Remote shell, then you will have to open a Netcat Listner on your server at `port_3` specified in `ExportObject.java` file
 
 
 Reference:
