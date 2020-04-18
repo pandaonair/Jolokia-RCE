@@ -1,4 +1,4 @@
-# Jolokia 1.0.0 JNDI Injection leading to RCE
+# Jolokia 1.0.0 JNDI Injection leading to RCE (CVE-2018-1000130)
 
 Working POC code for Jolokia RCE
 
