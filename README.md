@@ -34,6 +34,7 @@ This will execute the command that you have specified in the `ExportObject.java`
 
 Note that if you are trying to create a Remote shell, then you will have to open a Netcat Listner on your server at `port_3` specified in `ExportObject.java` file
 
+**Note**: All the information provided in this REPO are for educational purposes only. The authors of the repository are no way responsible for any misuse of the information.
 
 Reference:
 https://blog.gdssecurity.com/labs/2018/4/18/jolokia-vulnerabilities-rce-xss.html
